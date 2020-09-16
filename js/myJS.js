@@ -14,4 +14,4 @@ console.log(typeof arrayOfStickers[0].offset)
 arrayOfStickers[0].offset(function (i, val) {
     return {top: val.top + 30, left: val.left}
 })
-
+ switch (da){}
