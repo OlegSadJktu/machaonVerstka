@@ -86,9 +86,12 @@ header {
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
 }
 header .col-md-4 {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   text-align: center;
+}
+header .col-md-4 a:hover {
+  filter: none;
 }
 header .logo {
   width: 230px;
@@ -273,4 +276,98 @@ footer a img {
   right: 0;
   filter: brightness(-1%);
 }
-/*# sourceMappingURL=style.css.map */
+section.main {
+  background-color: #f2f2f2;
+  padding: 20px 0;
+}
+section.main .container {
+  position: relative;
+}
+section.main h1,
+section.main h3 {
+  margin: 40px 0;
+}
+section.main div.neu {
+  box-shadow: 5px 6px 12px 1px rgba(87, 84, 84, 0.3);
+  border-radius: 20px;
+  background-color: #ffffff;
+  margin: 5px 5px;
+  padding: 15px;
+}
+section.main div.neu p {
+  margin: 10px 0;
+}
+section.main p {
+  line-height: 1.5em;
+  font-size: 20px;
+}
+section.main p.neu {
+  box-shadow: 5px 6px 12px 1px rgba(87, 84, 84, 0.3);
+  border-radius: 20px;
+  background-color: #ffffff;
+  padding: 20px 20px;
+  margin: 20px 0;
+}
+section.main code {
+  background-color: rgba(196, 196, 196, 0.53);
+  color: #000;
+  margin: 0 2px;
+  padding: 0 2px;
+}
+section.main .details {
+  cursor: pointer;
+}
+section.main .details:after {
+  content: '▼';
+}
+section.main .hiddenBlock {
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.7s ease-in-out;
+  padding-right: 15px;
+  margin-bottom: 20px;
+}
+section.main .working-field {
+  box-shadow: inset 5px 6px 12px 1px rgba(87, 84, 84, 0.3);
+  border-radius: 20px;
+  background-color: #fff;
+  height: 300px;
+}
+section.main .working-field #block-field1 {
+  box-shadow: 5px 6px 12px 1px rgba(87, 84, 84, 0.3);
+  border-radius: 20px;
+  background-color: #9f9f9f;
+  height: 100px;
+  width: 100px;
+  z-index: 10;
+  transition: 1s ease-in-out;
+}
+section.main #settings {
+  display: flex;
+}
+section.main #settings div {
+  flex: 1;
+  padding: 20px 20px;
+}
+section.main #settings div span.span-choose {
+  margin: 15px 15px;
+  font-size: 1.5em;
+}
+section.main #settings div span.span-choose:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+section.main #position-form {
+  font-size: 2em;
+  margin: 20px ;
+}
+section.main #position-form input {
+  font-size: 0.7em;
+  width: 100px;
+  height: 30px;
+}
+section.main #positionTable div:nth-of-type(2n+1) {
+  text-align: center;
+  font-weight: bold;
+}
+/*# sourceMappingURL=additionalStyle.css.map */

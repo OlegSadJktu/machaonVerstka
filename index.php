@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
 
   <meta charset="utf-8">
@@ -16,108 +17,44 @@
   <script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
 
 
-  <title>Заголовок </title>
+  <title>Главная </title>
 
 </head>
+
 <body>
-<header>
+
+<?php
+require 'templates/header.php'
+?>
+
+<section id="mainIndex">
   <div class="container">
+
 
     <div class="row">
+      <div class="col-md-6 wow bounceInLeft">
+        <div>
 
-      <div class="col-md-4 align-items-center">
-        <a href="#">
-          <img src="img/png/logo.png" class="logo" alt="">
-        </a>
+          <h3>Добро пожаловать!</h3>
+          <p>
+            Вы попали на сайт, посвященный верстке макетов. Это создание и конструирование сайтов. Здесь я
+            постарался собрать весь интересный материал для изучения верстки и изложить его, используя
+            примеры.
+          </p>
+        </div>
       </div>
-      <nav class="float-right">
+      <div class="col-md-6 wow bounceInRight animated">
         <div>
-          <a href="#">
-            виды верстки
-          </a>
-          <ul class="list-inline">
-            <a href="#">
-              <li>блоки</li>
-            </a>
-            <a href="#">
-              <li>flexbox grid layout</li>
-            </a>
-            <a href="#">
-              <li>фреймворк bootstrap</li>
-            </a>
-            <a href="#">
-              <li>устаревшие</li>
-            </a>
-          </ul>
-        </div>
+          <h3>Для чего нужно знать верстку?</h3>
+          <p>
+            Будь то верстка на Bootstrap или макеты Wix или WordPress, любой макет будет представлять из
+            себя древо документа, включающий в себя тэги html. Так или иначе основы знать надо, если вы
+            хотите грамотно верстать макеты.
+          </p>
 
-        <div>
-          <a href="#">
-            препроцессор less
-          </a>
-          <ul class="list-inline">
-            <a href="#">
-              <li>Введение</li>
-            </a>
-            <a href="#">
-              <li>вложенность</li>
-            </a>
-            <a href="#">
-              <li>переменные</li>
-            </a>
-          </ul>
         </div>
-
-        <div>
-          <a href="#" class="abassa">
-            примеры верстки
-          </a>
-          <ul class="list-inline">
-            <a href="#">
-              <li>div and float</li>
-            </a>
-            <a href="#">
-              <li>flexbox and grid layout</li>
-            </a>
-            <a href="#">
-              <li>Bootstrap</li>
-            </a>
-          </ul>
-        </div>
-      </nav>
+      </div>
     </div>
-  </div>
-</header>
-
-
-<section id="main">
-  <div class="container">
-
-
-      <div class="row">
-        <div class="col-md-6 wow bounceInLeft">
-          <div>
-
-            <h3>Добро пожаловать!</h3>
-            <p>
-              Вы попали на сайт, посвященный верстке макетов. Это создание и конструирование сайтов. Здесь я
-              постарался собрать весь интересный материал для изучения верстки и изложить его, используя
-              примеры.
-            </p>
-          </div>
-        </div>
-        <div class="col-md-6 wow bounceInRight animated">
-          <div>
-            <h3>Для чего нужно знать верстку?</h3>
-            <p>
-              Будь то верстка на Bootstrap или макеты Wix или WordPress, любой макет будет представлять из
-              себя древо документа, включающий в себя тэги html. Так или иначе основы знать надо, если вы
-              хотите грамотно верстать макеты.
-            </p>
-
-          </div>
-        </div>
-      </div>
 
     <h3>Мною были рассмотрены следующие 3 технологии:</h3>
     <div class="row technology">
@@ -156,46 +93,23 @@
     <h3>Последний раздел - <a href="#">примеры верстки</a> покажет все преимущества технологий.</h3>
 
     <div class="stickers">
-      <div><img class="stickerImg" src="img/stickers/egg.png " alt=""></div>
-      <div><img class="stickerImg" src="img/stickers/fox.png" alt=""></div>
-      <div><img class="stickerImg" src="img/stickers/homa.png" alt=""></div>
-      <div><img class="stickerImg" src="img/stickers/pepper.png" alt=""></div>
+      <img class="stickerImg" src="img/stickers/egg.png " alt="">
+      <img class="stickerImg" src="img/stickers/fox.png" alt="">
+      <img class="stickerImg" src="img/stickers/homa.png" alt="">
+      <img class="stickerImg" src="img/stickers/pepper.png" alt="">
     </div>
 
   </div>
 </section>
-<footer>
-  <p> &copy; Выполнил <a target="_blank" href="https://vk.com/oleggius"><img src="img/vk1.png" alt="">Кривошеин</a>
-    <a target="_blank" href="https://www.instagram.com/asdkvueqq/?hl=ru"><img src="img/instagram1.png" alt="">Олег</a></p>
-</footer>
+
+<?php
+require "templates/footer.php"
+?>
 
 
-<!-- Modal -->
-<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<?php
+require 'templates/scripts.php'
+?>
 
-      </div>
-      <div class="modal-body">
-        <div class="row">
-
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/bootstrap.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/myJS.js"></script>
-<!--<script src="js/jquery.nicescroll.min.js"></script>-->
-<script>
-    new WOW().init();
-</script>
 </body>
 </html>

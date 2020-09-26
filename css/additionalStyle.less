@@ -1,0 +1,112 @@
+@import "style";
+
+
+
+section.main {
+  background-color: #f2f2f2;
+  padding: 20px 0;
+
+  .container{
+    position: relative;
+  }
+
+  h1, h3 {
+    margin: 40px 0;
+  }
+
+  div.neu {
+    .neumorphism(20px);
+    margin: 5px 5px;
+    padding: 15px;
+    p {
+      margin: 10px 0;
+    }
+  }
+
+  p {
+    line-height: 1.5em;
+    font-size: 20px;
+  }
+
+  p.neu {
+    .neumorphism(20px);
+    padding: 20px 20px;
+    margin: 20px 0;
+
+  }
+
+  code {
+    background-color: rgba(196, 196, 196, 0.53);
+    color: #000;
+    margin: 0 2px;
+    padding: 0 2px;
+  }
+
+  .details{
+    cursor: pointer;
+    &:after{
+      content: '▼';
+    }
+  }
+  .hiddenBlock{
+    max-height: 0;
+    overflow: hidden;
+    transition: all .7s ease-in-out;
+    padding-right: 15px;
+    margin-bottom: 20px;
+  }
+
+  .working-field{
+    .neumorphizm-inset(20px);
+    height: 300px;
+    #block-field1{
+      .neumorphism(20px, #9f9f9f);
+      height: 100px;
+      width: 100px;
+      z-index: 10;
+      transition: 1s ease-in-out;
+    }
+  }
+  #settings{
+    display: flex;
+    div{
+      flex: 1;
+      padding: 20px 20px;
+      span.span-choose{
+        margin: 15px 15px;
+        font-size: 1.5em;
+        &:hover{
+          cursor: pointer;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  #position-form{
+    font-size: 2em;
+    margin: 20px ;
+    input{
+      font-size: .7em;
+      width: 100px;
+      height: 30px;
+    }
+  }
+
+
+  #positionTable {
+    //grid-template-columns: 1fr 7fr;
+    div {
+
+
+      &:nth-of-type(2n+1) {
+        text-align: center;
+        .bold;
+      }
+
+
+    }
+
+  }
+
+}
+

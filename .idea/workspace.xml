@@ -1,63 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc00e400-6268-481c-8bdc-d769942a15b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/machaon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/css.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/instagram1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/less.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/png/dark-theme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/png/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/stickers/egg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/stickers/fox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/stickers/homa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/stickers/pepper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/vk1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.nicescroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/myJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myPHP.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runPHP.bat" afterDir="false" />
+    <list default="true" id="dc00e400-6268-481c-8bdc-d769942a15b0" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/blocks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/additionalStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/additionalStyle.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/additionalStyle.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flexGrid.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/cleanPage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/scripts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/myJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myJS.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runPHP.bat" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +59,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1gpcKcYr4YCeHT9VgLtg61ywQKY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -89,7 +71,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="ics" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.myJS.js">
@@ -129,8 +112,35 @@
       <workItem from="1600157062477" duration="2892000" />
       <workItem from="1600176490184" duration="6659000" />
       <workItem from="1600240698882" duration="1947000" />
-      <workItem from="1600243403759" duration="944000" />
+      <workItem from="1600243403759" duration="1271000" />
+      <workItem from="1600256473015" duration="7128000" />
+      <workItem from="1600329278508" duration="7105000" />
+      <workItem from="1600355272667" duration="1530000" />
+      <workItem from="1600393348210" duration="6432000" />
+      <workItem from="1600508756011" duration="13499000" />
+      <workItem from="1600571809871" duration="688000" />
+      <workItem from="1600572525885" duration="16405000" />
+      <workItem from="1600672052611" duration="1773000" />
+      <workItem from="1600751331368" duration="1515000" />
+      <workItem from="1600758580074" duration="1386000" />
+      <workItem from="1600779192639" duration="3222000" />
+      <workItem from="1601127241061" duration="2341000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1600256266109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600256266109</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1600257764651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600257764651</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,11 +151,40 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="62" />
+                  <entry key="3" value="123" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="420" y="160" key="#CLI_Interpreters" timestamp="1599970080987">
@@ -176,53 +215,65 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="509" y="283" key="EditFileWatcherDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1598960863279" />
-    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1600243360477">
+    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1600256799865">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1600243360477" />
+    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1600256799865" />
     <state x="718" y="403" width="440" height="279" key="Github.ShareDialog" timestamp="1600241542473">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="718" y="403" width="440" height="279" key="Github.ShareDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1600241542473" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1600002948812">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1600537910545">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1600002948812" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1600002948812">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1600537910545" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1600537910545">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1600002948812" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1600002948812">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1600537910545" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1600537910544">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1600002948812" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1600002948812">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1600537910544" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1600537910545">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1600002948812" />
-    <state x="674" y="428" key="NewPhpFileDialog" timestamp="1599996486870">
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1600537910545" />
+    <state x="674" y="428" key="NewPhpFileDialog" timestamp="1601134402578">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="674" y="428" key="NewPhpFileDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1599996486870" />
-    <state x="295" y="127" width="1266" height="794" key="SettingsEditor" timestamp="1600241623199">
+    <state x="674" y="428" key="NewPhpFileDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1601134402578" />
+    <state x="271" y="103" width="1266" height="794" key="SettingsEditor" timestamp="1600509647861">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="295" y="127" width="1266" height="794" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1600241623199" />
+    <state x="271" y="103" width="1266" height="794" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1600509647861" />
     <state x="561" y="246" width="570" height="524" key="StructurePopup" timestamp="1600178860632">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="561" y="246" width="570" height="524" key="StructurePopup/0.0.1680.1010@0.0.1680.1010" timestamp="1600178860632" />
-    <state x="92" y="92" width="1496" height="826" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599897393498">
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1600259090217">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="92" y="92" width="1496" height="826" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1599897393498" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1600259090217" />
+    <state x="92" y="92" width="1496" height="826" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600267181895">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="92" y="92" width="1496" height="826" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1600267181895" />
+    <state x="657" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600576354322">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="657" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1600576354322" />
+    <state x="496" y="233" key="run.anything.popup" timestamp="1600780167694">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="233" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1600780167694" />
     <state x="632" y="363" key="scopes" timestamp="1599996645972">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="632" y="363" key="scopes/0.0.1680.1010@0.0.1680.1010" timestamp="1599996645972" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1600241629474">
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1600446968991">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1600241629474" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1600446968991" />
   </component>
 </project>
