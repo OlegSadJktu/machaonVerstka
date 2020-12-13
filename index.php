@@ -2,6 +2,8 @@
 <html lang="ru">
 
 <head>
+  <link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +12,7 @@
 
   <!-- Bootstrap -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" href="css/font-awesome.min.css">
   <link rel="stylesheet" href="css/animate.css">
 
@@ -59,19 +61,23 @@ require 'templates/header.php'
     <h3>Мною были рассмотрены следующие 3 технологии:</h3>
     <div class="row technology">
       <div class="col-md-4 wow bounceInLeft" data-wow-delay="0.5s">
-        <h4><a href="#">Блочная верстка</a></h4>
+        <h4><a href="blocks.php">Блочная верстка</a></h4>
         <p>Самая первая, удобная и простая в понимании верстка. Используются тэги div, позиционирование и
           обтекание элементов float.</p>
       </div>
       <div class="col-md-4 wow bounceInUp" data-wow-delay="1s" data-wow-duration="1s">
-        <h4><a href="#">Flexbox и Grid Layout</a></h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque cumque veniam atque vitae debitis
-          accusamus aliquid tenetur ab sed illo. Quasi at, perferendis optio.</p>
+        <h4><a href="flexGrid.php">Flexbox и Grid Layout</a></h4>
+        <p>
+          Возможность гибко взаимодействовать с контентом и распределять его
+          по принципу сетки. Проста в понимании и удобна в использовании.
+        </p>
       </div>
       <div class="col-md-4 wow bounceInRight" data-wow-delay="1.5s">
-        <h4><a href="#">Bootstrap</a></h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, nobis nemo, cumque
-          exercitationem, aperiam voluptas laborum nisi dolorem vero illo error nihil quia sequi!</p>
+        <h4><a href="bootstrap.php">Bootstrap</a></h4>
+        <p>
+          Очень популярный фреймворк, позволяющий быстро сверстать макет,
+          используя наборы классов. Написан при помощи flexbox и grid layout.
+        </p>
       </div>
     </div>
 
@@ -90,14 +96,19 @@ require 'templates/header.php'
       </div>
     </div>
 
-    <h3>Последний раздел - <a href="#">примеры верстки</a> покажет все преимущества технологий.</h3>
+    <h3>Последний раздел - <a href="conclusions.php">примеры верстки</a> покажет все преимущества технологий.</h3>
 
-    <div class="stickers">
-      <img class="stickerImg" src="img/stickers/egg.png " alt="">
-      <img class="stickerImg" src="img/stickers/fox.png" alt="">
-      <img class="stickerImg" src="img/stickers/homa.png" alt="">
-      <img class="stickerImg" src="img/stickers/pepper.png" alt="">
+    <div class="image-content">
+
+
     </div>
+
+<!--    <div class="stickers">-->
+<!--      <img src="img/stickers/egg.png " alt="">-->
+<!--      <img src="img/stickers/fox.png" alt="">-->
+<!--      <img src="img/stickers/homa.png" alt="">-->
+<!--      <img src="img/stickers/pepper.png" alt="">-->
+<!--    </div>-->
 
   </div>
 </section>

@@ -17,13 +17,13 @@
             <a href="blocks.php">
               <li>блоки</li>
             </a>
-            <a href="#">
+            <a href="flexGrid.php">
               <li>flexbox grid layout</li>
             </a>
-            <a href="#">
+            <a href="bootstrap.php">
               <li>фреймворк bootstrap</li>
             </a>
-            <a href="#">
+            <a href="outdated.php">
               <li>устаревшие</li>
             </a>
           </ul>
@@ -34,31 +34,34 @@
             препроцессор less
           </a>
           <ul class="list-inline">
-            <a href="#">
+            <a href="lessIntroduction.php">
               <li>Введение</li>
             </a>
-            <a href="#">
+            <a href="lessNesting.php">
               <li>вложенность</li>
             </a>
-            <a href="#">
+            <a href="lessVars.php">
               <li>переменные</li>
             </a>
           </ul>
         </div>
 
         <div>
-          <a href="#" class="abassa">
+          <a href="#">
             примеры верстки
           </a>
           <ul class="list-inline">
-            <a href="#">
+            <a href="exDiv.php">
               <li>div and float</li>
             </a>
-            <a href="#">
+            <a href="metalFlex.php">
               <li>flexbox and grid layout</li>
             </a>
-            <a href="#">
+            <a href="exBootstrap.php">
               <li>Bootstrap</li>
+            </a>
+            <a href="conclusions.php">
+              <li>выводы</li>
             </a>
           </ul>
         </div>

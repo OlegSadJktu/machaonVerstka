@@ -31,7 +31,7 @@ require 'templates/header.php'
       <code>position</code>. Далле использовать свойста <code>top</code>,<code>right</code>,<code>bottom</code>,<code>left</code>, указывая, сколько нужно отступить блоку.
     </p>
 
-    <h3><span class="details" onclick="moreDetails('positionTable')">Таблица <code>position</code></span></h3>
+    <h3 class="details" onclick="moreDetails('positionTable')">Таблица <code>position</code></h3>
     <div id="positionTable" data-columns="1fr 7fr" class="hiddenBlock grid-tables" >
       <div class="neu">
         <p>static</p>

@@ -114,7 +114,6 @@
 /*           БАЗОВЫЕ НАСТРОЙКИ        */
 
 
-a:active,
 a:hover,
 a:focus {
   text-decoration: none;
@@ -122,6 +121,7 @@ a:focus {
   filter: brightness(1.3);
 
 }
+
 
 a {
   color: #6f3896;
@@ -136,17 +136,17 @@ p {
 /*           ХЭДЭР        */
 
 header {
-  padding-top: 5px;
-  padding-bottom: 5px;
   position: sticky;
+  padding-top: 7px;
+  padding-bottom: 7px;
   top: 0;
   z-index: 10;
   background-color: #ffffff;
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.2);
 
   .col-md-4 {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     text-align: center;
     a{
       &:hover{
@@ -178,11 +178,14 @@ header {
 
       &:hover {
         ul {
-          /* для анимации*/
+
+          /* анимация при наведении */
+
           opacity: 1;
           visibility: visible;
           transform: perspective(600px) rotateX(0deg);
           z-index: 10;
+
         }
       }
 
@@ -198,7 +201,8 @@ header {
         border-radius: 10px;
 
 
-        /* для анимации*/
+        /* стандартные стили */
+
         transform: perspective(600px) rotateX(-90deg);
         transform-origin: 50% 0;
         transition: .25s ease-in-out;
