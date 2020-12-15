@@ -20,68 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc00e400-6268-481c-8bdc-d769942a15b0" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conclusions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/$FileNameWithoutExtensi$.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/$FileNameWithoutExtensi$.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMetal/flexbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flexgrid.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/14539.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/aaabbb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/agressive.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/agressive.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/agressive.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/agressive.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/agressive.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bootstrap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/flex_axis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/less-css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessIntroduction.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessNesting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessVars.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalFlex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/Asking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/BMTH.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/BreakdownofSanity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/Carnifex.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/ChelseaGrin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/Currents.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/Emmure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/LMTF.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/LikeMothsToFlames.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/Texas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/VeilOfMaya.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/WageWar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/deathcore.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/electro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/grad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/metalcore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/post.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metalimg/x1m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outdated.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/additionalStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/additionalStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/additionalStyle.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/additionalStyle.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/additionalStyle.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/additionalStyle.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flexGrid.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/instagram1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/png/instagram1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/png/dark-theme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vk1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/png/vk1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/myJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myJS.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/head.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/flexGrid.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +64,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.myJS.js">
@@ -191,7 +135,12 @@
       <workItem from="1607851739659" duration="5879000" />
       <workItem from="1607870456113" duration="3848000" />
       <workItem from="1607878381849" duration="3909000" />
-      <workItem from="1607883458839" duration="2708000" />
+      <workItem from="1607883458839" duration="3147000" />
+      <workItem from="1607952444240" duration="2127000" />
+      <workItem from="1608009789322" duration="616000" />
+      <workItem from="1608025543893" duration="1192000" />
+      <workItem from="1608034510947" duration="603000" />
+      <workItem from="1608043815222" duration="837000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600256266109</created>
@@ -214,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601143533290</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit for ONIIP">
+      <created>1607886563974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607886563974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,13 +236,14 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="add templates, fixed columns for tables and fix js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add templates, fixed columns for tables and fix js" />
+    <MESSAGE value="commit for ONIIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for ONIIP" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="420" y="160" key="#CLI_Interpreters" timestamp="1599970080987">
+    <state x="420" y="160" key="#CLI_Interpreters" timestamp="1607954349971">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="420" y="160" key="#CLI_Interpreters/0.0.1680.1010@0.0.1680.1010" timestamp="1599970080987" />
+    <state x="420" y="160" key="#CLI_Interpreters/0.0.1680.1010@0.0.1680.1010" timestamp="1607954349971" />
     <state x="642" y="357" key="#Configure_Path_Variables" timestamp="1599969969080">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -323,10 +280,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="421" y="157" width="574" height="522" key="EnvironmentVariablesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1607884045223" />
-    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1607883974720">
+    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1607952987325">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1607883974720" />
+    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1607952987325" />
     <state x="718" y="403" width="440" height="279" key="Github.ShareDialog" timestamp="1600241542473">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -351,18 +308,18 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="674" y="428" key="NewPhpFileDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1607855448758" />
-    <state x="337" y="62" width="1266" height="792" key="SettingsEditor" timestamp="1607884564269">
+    <state x="337" y="62" width="1266" height="792" key="SettingsEditor" timestamp="1607954350468">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="337" y="62" width="1266" height="792" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1607884564269" />
+    <state x="337" y="62" width="1266" height="792" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1607954350468" />
     <state x="561" y="246" width="570" height="524" key="StructurePopup" timestamp="1600178860632">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="561" y="246" width="570" height="524" key="StructurePopup/0.0.1680.1010@0.0.1680.1010" timestamp="1600178860632" />
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1601143749575">
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1607886571055">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1601143749575" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1607886571055" />
     <state x="92" y="92" width="1496" height="826" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600267181895">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -375,6 +332,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="657" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1600576354322" />
+    <state x="207" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1607954348386">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="207" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1607954348386" />
     <state x="496" y="233" key="run.anything.popup" timestamp="1607872089728">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

@@ -447,7 +447,6 @@ section.main #settings {
 }
 section.main #settings div {
   flex: 1;
-  padding: 20px 20px;
 }
 section.main #settings div span.span-choose {
   margin: 15px 15px;

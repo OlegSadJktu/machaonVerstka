@@ -95,15 +95,15 @@ require 'templates/header.php'
       </div>
     </div>
 
-    <p class="neu">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquid asperiores assumenda
-      consequatur delectus, dicta eaque ex ipsum mollitia nemo, nesciunt possimus provident quas quibusdam quos
-      recusandae repudiandae sapiente tempora vero voluptatum!</p>
-    <p class="neu">Dolorem fugiat itaque laborum nostrum quae quasi quos repellat veritatis voluptatem voluptates?
-      Aliquid asperiores at beatae modi possimus quibusdam, sapiente veniam veritatis voluptatem. Ex explicabo iste nam
-      nisi, quas quasi sapiente similique?</p>
-    <p class="neu">Ad blanditiis dolorem error excepturi vel! A animi corporis dignissimos dolore ea enim est, ex
-      excepturi explicabo hic incidunt labore mollitia odio officiis perspiciatis quam quasi quis similique tenetur
-      totam vel voluptatibus?</p>
+    <p class="neu">
+      Важно знать эту таблицу, если хотите использовать возможности CSS
+      по максимуму. Также следует помнить, что абсолютное позиционирование может
+      развалить макет, это свойство следует использовать с умом.
+    </p>
+    <p class="neu">
+      В примере ниже вы можете ознакомиться с этой возможностью поподробнее.
+
+    </p>
 
 
 
